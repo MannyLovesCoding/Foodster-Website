@@ -1,0 +1,78 @@
+body {
+    background-image: url("https://i.postimg.cc/w38Wj5w7/output-onlinepngtools.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: monospace;
+  }
+  
+h1 {
+    font-size: 60px;
+  }
+  .main-style, footer {
+    text-align: center;
+  }
+  
+a:hover {
+    color: red;
+  }
+  
+.header-style h1:hover {
+    opacity: 0.5;
+  }
+  
+.header-style {
+    font-size: 25px;
+    color: crimson;
+  }
+main {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  
+footer a:hover {
+    opacity: 0.5;
+  }
+  
+h2 {
+    text-align: center;
+  }
+  
+#trending-foods, #beverages {
+    text-align: center;
+    font-weight: normal;
+  }
+  
+#trending-foods p:hover, #beverages p:hover {
+    opacity: 0.5;
+  }
+  
+img.rounded-corners {
+    border-radius: 20px;
+  }
+  
+.bigger-font {
+    font-size: 35px;
+  }
+  
+th {
+      border: 2px solid #8c6b48;
+    }
+    
+table {
+      text-align: center;
+      margin: 20px auto;
+    }
+    
+td {
+      border: 2px solid #8c6b48;
+      width: 300px;
+    }
+  
+.right-text {
+      text-align: right;
+    }
+    
+    
+    
+  
